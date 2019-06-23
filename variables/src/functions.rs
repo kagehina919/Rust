@@ -1,3 +1,5 @@
+// File with multiple uses of functions, blocks, return types and data types.
+
 fn main() {
     another_function(5);
 }
